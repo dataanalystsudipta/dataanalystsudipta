@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a <strong>Data Analyst</strong> with 2.5 years of experience transforming raw data into meaningful insights that support better business decisions.I work with data throughout its lifecycle — from data cleaning and transformation to analysis, visualization, dashboard development, and reporting. I enjoy finding patterns in data and turning complex datasets into simple, actionable insights.<br>languages : python , SQL<br>Data Analysis: Advanced Excel, Pandas, NumPy <br>library : numpy,pandas,matplotlib <br>databases : postgres,Mysql <br>Visualization: power bi, tableau,Matplotlib <br> Data Transformation: Pandas,power Query<br>
+I'm a <strong>Data Analyst</strong> with 2.5 years of experience transforming raw data into meaningful insights that support better business decisions.I work with data throughout its lifecycle — from data cleaning and transformation to analysis, visualization, dashboard development, and reporting. I enjoy finding patterns in data and turning complex datasets into simple, actionable insights.<br>Languages : python , SQL<br>Data Analysis: Advanced Excel, Pandas, NumPy <br>Library : numpy,pandas,matplotlib <br>Databases : postgres,Mysql <br>Visualization: power bi, tableau,Matplotlib <br> Data Transformation: Pandas,power Query<br>
 
 
 ## 🌐 Socials:
